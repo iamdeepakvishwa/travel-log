@@ -6,3 +6,9 @@
 <li>Setup Express App</li>
 <li>Setup MiddleWare</li>
 </ol>
+
+2-> Model Database 
+<ol>
+<li>What will we Store</li>
+<li>Setup Mongoose & Mongoose Model 
+</ol>
