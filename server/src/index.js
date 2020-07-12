@@ -25,11 +25,7 @@ app.use(cors({
 }));
 app.use(express.json());
 
-app.get('/',(req,res)=>{
-    res.json({
-        message: "hello World",
-    });
-});
+app.get('/',logs);
 
 app.use('/api/logs',logs);
 
